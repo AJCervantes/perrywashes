@@ -32,7 +32,7 @@
       text-decoration: none;
       font-size: 2vw;
       color : #FFFFFF;
-      padding : 20px 0;
+      padding : 5px 0;
       box-sizing: border-box;
 
     }
@@ -40,7 +40,7 @@
       background-color: #301818;
       color: #FFFFFF;
       box-sizing: border-box;
-      padding : 20px 0;
+      padding : 5px 0;
       box-sizing: border-box;
     }
     li:last-child {
@@ -50,7 +50,7 @@
       background-color: #189090;
       color: #FFFFFF;
       font-size: 2vw;
-      padding : 20px 0;
+      padding : 5px 0;
       box-sizing: border-box;    }
     hr.a{
       size: "2";
