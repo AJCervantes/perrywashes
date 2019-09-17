@@ -1,10 +1,8 @@
-    body,html{
-        padding: 0;
-        margin: 0;
-    }
     h1{
       color : #301818;
       font-size: 3vw;
+      width : 30%;
+      box-sizing: border-box;
     }
     h2{
       color : #301818;
@@ -16,9 +14,10 @@
       list-style-type: none;
       float : right;
       position: relative;
-      right : 1%;
-      top: 1%;
+      right : 0%;
+      top: 0%;
       padding: 0;
+      box-sizing: border-box;
       background-color: #D86000;
       width: 15%;
       border: 1px solid #000000; 
@@ -33,10 +32,16 @@
       text-decoration: none;
       font-size: 2vw;
       color : #FFFFFF;
+      padding : 20px 0;
+      box-sizing: border-box;
+
     }
     li a:hover:not(.active) {
       background-color: #301818;
       color: #FFFFFF;
+      box-sizing: border-box;
+      padding : 20px 0;
+      box-sizing: border-box;
     }
     li:last-child {
       border-bottom: none;
@@ -45,7 +50,8 @@
       background-color: #189090;
       color: #FFFFFF;
       font-size: 2vw;
-    }
+      padding : 20px 0;
+      box-sizing: border-box;    }
     hr.a{
       size: "2";
       border-color: #301818;
@@ -54,6 +60,7 @@
     img.e{
       width: 10%;
       height : auto;
+      box-sizing: border-box;
     }
     img.h{
       position: absolute;
@@ -62,4 +69,5 @@
       top: 1%;
       width: 25%;
       height: auto;
+      box-sizing: border-box;
     }
