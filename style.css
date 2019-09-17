@@ -27,7 +27,7 @@
     li a {
       display: block;
       text-decoration: none;
-      font-size: 1.5vw;
+      font-size: 2vw;
       color : #FFFFFF;
     }
     li a:hover:not(.active) {
